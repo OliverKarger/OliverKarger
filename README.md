@@ -1,53 +1,49 @@
+### Hi there, I'm Oliver 👋
 
-### Hello there, I'm Oliver 👋
+## I'm a Developer and Gamer from Germany!
 
-#### Connect with Me
-<a href="https://www.xing.com/profile/Oliver_Karger3/cv">
-	<img align="left" src="https://simpleicons.org/icons/xing.svg" width="30px" 	height="30px" alt="XING" />
-</a>
-<a href="https://www.linkedin.com/in/oliver-karger-7b100a20a">
-	<img align="left" src="https://simpleicons.org/icons/linkedin.svg" width="30px" height="30px" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/OliverKarger">
-	<img align="left" src="https://simpleicons.org/icons/twitter.svg" width="30px" height="30px" alt="Twitter" />
-</a>
-<a href="https://instagram.com/oliverkarger">
-	<img align="left" src="https://simpleicons.org/icons/instagram.svg" width="30px" height="30px" alt="instagram" />
-</a>
+- 🌱 I’m currently learning Angular, COBOl ang MongoDB 🤣
+- 👯 I’m looking to start collaborate on Open-Source Projects
+- 🥅 2021 Goals: Improve mental and physical Health
+- ⚡ Hobbys: Gaming, Programming and Cars / Bikes
 
-## I'm a (hobby) Developer from Germany
+### Connect with me:
 
- - 🌱 I'm currently learning Angular, COBOL and C#
- - 🥅 Goals 2021: Improving physical and mental Health
- - 👯 Looking to start contributing to other open-soruce Projects
- - ⚡ Hobbys: Programming, Gaming and Cars
+[<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Oliver Karger's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverkarger)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-## Tools and Languages i'm using
+### Languages and Tools:
 
-<img align="left" src="https://simpleicons.org/icons/html5.svg" width="30px" height="30px" alt="html" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" width="30px" height="30px" alt="css3" />
-<img align="left" src="https://simpleicons.org/icons/sass.svg" width="30px" height="30px" alt="sass" />
-<img align="left" src="https://simpleicons.org/icons/angular.svg" width="30px" height="30px" alt="angular" />
-<img align="left" src="https://simpleicons.org/icons/angularuniversal.svg" width="30px" height="30px" alt="angular-universal" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" width="30px" height="30px" alt="react" />
-<img align="left" src="https://simpleicons.org/icons/typescript.svg" width="30px" height="30px" alt="typescript" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" width="30px" height="30px" alt="javascript" />
-<img align="left" src="https://simpleicons.org/icons/ubuntu.svg" width="30px" height="30px" alt="ubuntu" />
-<img align="left" src="https://simpleicons.org/icons/github.svg" width="30px" height="30px" alt="github" />
-<img align="left" src="https://simpleicons.org/icons/gitlab.svg" width="30px" height="30px" alt="gitlab" />
-<img align="left" src="https://simpleicons.org/icons/git.svg" width="30px" height="30px" alt="git" />
-<img align="left" src="https://simpleicons.org/icons/docker.svg" width="30px" height="30px" alt="docker" />
-<img align="left" src="https://simpleicons.org/icons/microsoftazure.svg" width="30px" height="30px" alt="microsoft-azure" />
-<img align="left" src="https://simpleicons.org/icons/googlecloud.svg" width="30px" height="30px" alt="google-cloud" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" width="30px" height="30px" alt="vscode" />
-<img align="left" src="https://simpleicons.org/icons/visualstudio.svg" width="30px" height="30px" alt="visual-studio" />
-<img align="left" src="https://simpleicons.org/icons/dotnet.svg" width="30px" height="30px" alt="dotnet" />
+[<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/typescript.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>][profile]
+[<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/git.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/microsoft.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>][profile]
+[<img src="https://img.icons8.com/color/48/000000/nginx.png"/>][profile]
 
-## Other Things i use
+<br />
+<br />
 
-<img align="left" src="https://simpleicons.org/icons/abletonlive.svg" width="30px" height="30px" alt="ableton-live" />
-<img align="left" src="https://simpleicons.org/icons/protools.svg" width="30px" height="30px" alt="pro-tools" />
-<img align="left" src="https://simpleicons.org/icons/adobecreativecloud.svg" width="30px" height="30px" alt="adobe-creative-cloud" />
-<img align="left" src="https://simpleicons.org/icons/fortinet.svg" width="30px" height="30px" alt="fortinet" />
+[<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />][profile]
+<br />
+[<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverkarger&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />][profile]
+
+
+[twitter]: https://twitter.com/oliverkarger
+[instagram]: https://instagram.com/oliverkarger
+[linkedin]: https://www.linkedin.com/in/oliver-karger-7b100a20a/
+[xing]: "https://www.xing.com/profile/Oliver_Karger3/cv"
+[profile]: "https://github.com/oliverkarger"
