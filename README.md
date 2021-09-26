@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Gamer from Germany!
 
-- 🌱 I’m currently learning Angular, COBOL ang MongoDB
+- 🌱 I’m currently learning Angular, COBOL and MongoDB
 - 👯 I’m looking to start collaborate on Open-Source Projects
 - 🥅 2021 Goals: Improve mental and physical Health
 - ⚡ Hobbys: Gaming, Programming and Cars / Bikes
