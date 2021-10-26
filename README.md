@@ -41,32 +41,35 @@
 
 ### :wrench: Languages and Tools:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleads.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleadsense.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hetzner.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/coveralls.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg" />][profile]
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleads.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleadsense.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hetzner.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/coveralls.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg" />
+</p>
 
 ---
+
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=oliverkarger" width="800" align="center" />
 </p>
@@ -76,6 +79,6 @@
 ### 📊 Stats
 
 <p>
-  <img width="475" height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&count_private=true&include_all_commits=true" /> 
-  <img width="475" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
+  <img width="400" height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&count_private=true&include_all_commits=true" /> 
+  <img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverkarger&theme=dark" />
 </p>
