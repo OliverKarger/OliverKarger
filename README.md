@@ -37,10 +37,7 @@
 <br />
 <br />
 
-[<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />][profile]
-<br />
-[<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverkarger&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />][profile]
-
+[<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&count_private=true&include_all_commits=true" />][profile]
 
 [twitter]: https://twitter.com/oliverkarger
 [instagram]: https://instagram.com/oliverkarger
