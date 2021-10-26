@@ -1,71 +1,47 @@
-### Hi there, I'm Oliver 👋
-
-## I'm a Developer from Germany!
-
-- 🌱 I’m currently learning Angular, COBOL and MongoDB
-- 👯 I’m looking to start collaborate on Open-Source Projects
-- 🥅 2021 Goals: Improve mental and physical Health
-- ⚡ Hobbys: Gaming, Programming and Cars / Bikes
-
----
-
-### 💬 Connect with me:
-
-[<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
----
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<p>
+  <img align="left" width="490" height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&count_private=true&include_all_commits=true" />
+  <p>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio-3b2e58?style=flat-square&logo=Visual%20Studio&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-1d1d1d?style=flat-square&logo=microsoftsqlserver"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-dd4814?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Azure%20Cloud-0085CF?style=flat-square&logo=microsoftazure"/>
+    <img src="https://img.shields.io/badge/-Hetzner%20Cloud-d50f2e?style=flat-square&logo=hetzner"/>
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular"/>
+    <img src="https://img.shields.io/badge/-.Net%205.0-1d1d1d?style=flat-square&logo=dotnet"/>
+    <img src="https://img.shields.io/badge/-.Net%20Core-1d1d1d?style=flat-square&logo=dotnet"/>
+  </p>
+</p>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### :wrench: Languages and Tools:
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gitlab.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleads.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googleadsense.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hetzner.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/coveralls.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />][profile]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg" />][profile]
-
----
-
-### 📊 Stats
-
-[<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oliverkarger&show_icons=true&count_private=true&include_all_commits=true" />][profile]
-
-[twitter]: https://twitter.com/oliverkarger
-[instagram]: https://instagram.com/oliverkarger
-[linkedin]: https://www.linkedin.com/in/oliver-karger-7b100a20a/
-[xing]: "https://www.xing.com/profile/Oliver_Karger3/cv"
-[profile]: "https://github.com/oliverkarger"
+<p>
+  💬 Connect with me:
+  <p>
+    <a href="mailto:mail@oliver-karger.de?subject=[GitHub]%20🔥">
+      <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/oliverkarger">
+      <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
+</p>
+<p>
+  <h3>Hi, I'm Oliver</h3>
+  <ul>
+    <li>🌱 I’m currently learning Angular, COBOL and MongoDB</li>
+    <li>👯 I’m looking to start collaborate on Open-Source Projects</li>
+    <li>🥅 2021 Goals: Improve mental and physical Health</li>
+    <li>⚡ Hobbys: Gaming, Programming and Cars / Bikes</li>
+  
+  </ul>
+</p>
