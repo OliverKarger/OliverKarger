@@ -16,6 +16,11 @@
 
 <br />
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Languages and Tools:
 
 [<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>][profile]
