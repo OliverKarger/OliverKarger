@@ -14,6 +14,10 @@ Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 Plug 'kyoz/purify', { 'rtp': 'vim' }
 Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'sonph/onehalf', { 'rtp': 'vim' }
+
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'romgrk/barbar.nvim'
 
 " COC Plugins
 Plug 'yaegassy/coc-jsdoc', { 'do': 'yarn install --forzen-lockfile' }
