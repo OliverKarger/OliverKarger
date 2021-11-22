@@ -12,7 +12,15 @@ Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
+Plug 'kyoz/purify', { 'rtp': 'vim' }
+Plug 'dracula/vim', { 'as': 'dracula' }
+
+" COC Plugins
+Plug 'yaegassy/coc-jsdoc', { 'do': 'yarn install --forzen-lockfile' }
+Plug 'mlaursen/coc-scssmodules', {'do': 'yarn install && yarn build'}
+
 
 set encoding=UTF-8
 
 call plug#end()
+
