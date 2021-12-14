@@ -1,0 +1,15 @@
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.Relational
+Install-Package Microsoft.EntityFrameworkCore.Design
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+Install-Package Microsoft.ApplicationInsights
+Install-Package Microsoft.ApplicationInsights.DependencyCollector
+Install-Package Microsoft.ApplicationInsights.WindowsServer
+Install-Package Microsoft.ApplicationInsights.AspNetCore
+Install-Package Microsoft.Extensions.Logging.ApplicationInsights
+
+
+Install-Package log4net
+Install-Package Microsoft.ApplicationInsights.Log4net
