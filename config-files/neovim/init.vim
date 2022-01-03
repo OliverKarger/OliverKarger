@@ -1,59 +1,46 @@
-:set number
-:set relativenumber
-:set autoindent
-:set tabstop=2
-:set shiftwidth=4
-:set smarttab
-:set softtabstop=4
-:set mouse=a
+call plug#begin()
+Plug 'navarasu/onedark.nvim'
 
-source $HOME/.config/nvim/vim-plug/plugins.vim
-source $HOME/.config/nvim/bindings.vim
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
-nnoremap <C-f> :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
+Plug 'scrooloose/nerdtree'
 
-nmap <F8> :TagbarToggle<CR>
+Plug 'billyvg/tigris.nvim', { 'do': './install.sh' }
+Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
+Plug 'jiangmiao/auto-pairs'
+Plug 'yuezk/vim-js'
+Plug 'HerringtonDarkholme/yats.vim'
+Plug 'maxmellon/vim-jsx-pretty'
+call plug#end()
 
-:set completeopt-=preview " For No Previews
+syntax enable
+colorscheme onedark
 
-colorscheme onehalfdark
-
-let g:NERDTreeDirArrowExpandable="+"
-let g:NERDTreeDirArrowCollapsible="~"
-
-" --- Just Some Notes ---
-" :PlugClean :PlugInstall :UpdateRemotePlugins
-"
-" :CocInstall coc-python
-" :CocInstall coc-clangd
-" :CocInstall coc-snippets
-" :CocCommand snippets.edit... FOR EACH FILE TYPE
-
-" air-line
 let g:airline_powerline_fonts = 1
-let g:airline_theme='onehalfdark'
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#buffer_nr_show = 1
+let g:tigris#on_the_fly_enabled = 1
+let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier']
 
-if exists('+termguicolors')
-  let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
-  let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
-  set termguicolors
-endif
+nmap <silent> <C-D> :NERDTreeToggle<CR>
+nmap <silent> <C-S> :NERDTreeFocus<CR>
+nnoremap <C-S-tab> :bprevious<CR>
+nnoremap <C-tab>   :bnext<CR>
 
-if !exists('g:airline_symbols')
-    let g:airline_symbols = {}
-endif
+set tabstop=4       " number of visual spaces per TAB
+set softtabstop=4   " number of spaces in tab when editing
+set shiftwidth=4    " number of spaces to use for autoindent
+set expandtab       " tabs are space
+set autoindent
+set copyindent      " copy indent from the previous line
 
-" airline symbols
-let g:airline_left_sep = ''
-let g:airline_left_alt_sep = ''
-let g:airline_right_sep = ''
-let g:airline_right_alt_sep = ''
-let g:airline_symbols.branch = ''
-let g:airline_symbols.readonly = ''
-let g:airline_symbols.linenr = ''
-
-inoremap <expr> <Tab> pumvisible() ? coc#_select_confirm() : "<Tab>"
-
+set hidden
+set number                   " show line number
+set showcmd                  " show command in bottom bar
+set cursorline               " highlight current line
+set wildmenu                 " visual autocomplete for command menu
+set showmatch                " highlight matching brace
+set laststatus=2             " window will always have a status line
+set nobackup
+set noswapfile
