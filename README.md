@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular, COBOL and MongoDB
 - 👯 I’m looking to start collaborate on Open-Source Projects
-- 🥅 2021 Goals: Improve mental and physical Health & start to work as a Freelance Developer
+- 🥅 2022 Goals: Improve mental and physical Health & start to work as a Freelance Developer
 - ⚡ Hobbys: Gaming, Programming and Cars / Bikes
 
 ---
