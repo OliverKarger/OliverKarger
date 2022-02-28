@@ -2,9 +2,9 @@
 
 ## :zap: I'm a Developer from Germany!
 
-- 🌱 I’m currently learning Angular, COBOL and MongoDB
-- 👯 I’m looking to start collaborate on Open-Source Projects
-- 🥅 2022 Goals: Improve mental and physical Health & start to work as a Freelance Developer
+- 🌱 I’m currently learning Python(3), Blockchains, Kryptography and React-Native
+- 👯 I’m looking to improve my Knowledge and start my own Company. 
+- 🥅 2022 Goals: Improve mental and physical Health & start to start my own Company. 
 - ⚡ Hobbys: Gaming, Programming and Cars / Bikes
 
 ---
