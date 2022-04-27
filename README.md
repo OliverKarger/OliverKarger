@@ -2,7 +2,7 @@
 
 ## :zap: I'm a Developer from Germany!
 
-- 🌱 I’m currently learning Python, Blockchain, Kryptography, React-Native and Flutter
+- 🌱 I’m currently learning Python, Blockchain, Cryptography, React-Native and Flutter
 - 👯 I’m looking to improve my Knowledge and start my own Company. 
 - 🥅 2022 Goals: Improve mental and physical Health & start to start my own Company. 
 - ⚡ Hobbys: Programming, Chillin, Cars and Movies. 
